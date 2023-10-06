@@ -5,7 +5,7 @@ NOTE: The programmers used OpenCobolIDE for this project.
 
 HOW TO RUN THE PROGRAM:
 
-1. Download and extract the 'SIR.zip' folder.
-2. Run the 'SIR-SYSTEM.cob' to a supported IDE. (Preferably OpenCobolIDE)
+1. Download all of the files. ('SIR.cob', 'Inventory.txt.', 'Stock.txt'
+2. Run the 'SIR.cob' to a supported COBOL IDE. (Preferably OpenCobolIDE)
 3. Enjoy!
 
